@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/ai/:match*",
+            "destination": "/api/index.js"
+        }
+    ]
+}

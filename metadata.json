@@ -1,0 +1,8 @@
+{
+  "name": "CollabSpace",
+  "description": "An AI-native campus-to-global collaboration network for students to find partners, build teams, and navigate career paths with Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
