@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:5000"; // our backend
+const API_BASE = ""; // Relative path to use Vite proxy (dev) or Vercel rewrites (prod)
 
 export class GeminiService {
   async findCollaborators(query: string, availableUsers: any[]) {
